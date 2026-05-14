@@ -1,0 +1,72 @@
+﻿  Source.cpp
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Characters.h(46,59): warning C4244: 'return': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Characters.h(47,60): warning C4244: 'return': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Physics.h(71,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Knuckles.h(176,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Tails.h(90,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Tails.h(93,50): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(71,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(78,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(99,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(106,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(113,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(134,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(135,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(139,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(140,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(153,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(154,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(158,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(159,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(425,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(434,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(443,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(467,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(475,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(483,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(499,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(500,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Collision.h(501,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\ExtraLife.h(9,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\ExtraLife.h(9,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\MotoBug.h(53,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\CrabMeat.h(22,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\CrabMeat.h(22,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(86,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(86,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(91,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(91,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(156,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(157,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(171,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(172,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(186,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(187,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(202,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(203,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(215,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(216,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(218,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(270,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(329,44): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(329,35): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(345,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(382,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(385,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(386,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(387,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(389,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(465,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Levels.h(513,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Game.h(200,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Source.cpp(206,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\OOP Project - Demo\OOP Project\Source.cpp(206,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  OOP Project.vcxproj -> C:\Users\PC\Desktop\OOP Project - Demo\x64\Debug\OOP Project.exe
